@@ -1,4 +1,4 @@
-# Shreya
+
 <h1 align="center">Hi 👋, I'm Shreya Sharma :woman: </h1>
 <h3 align="center">Analyst @ Deloitte USI and a Data Engineer Enthusiast.</h3>
 
