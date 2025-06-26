@@ -1,10 +1,10 @@
 # Shreya
-<h1 align="center">Hi 👋, I'm Shreya Sharma</h1>
+<h1 align="center">Hi 👋, I'm Shreya Sharma :woman: </h1>
 <h3 align="center">Analyst @ Deloitte USI and a Data Engineer Enthusiast.</h3>
 
 -  I’m currently working on **Data Engineering Projects** 
 
-- I’m currently learning **Advanced Mysql,Apache Pyspark and Apache Airflow**
+- I’m currently learning **Advanced Mysql,Apache Pyspark and Apache Airflow,Data Warehousing**
 
 -  I’m looking to collaborate on **Data Engineering,ETL,Python**
 
